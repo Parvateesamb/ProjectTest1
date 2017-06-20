@@ -1,6 +1,7 @@
 This is my first file in this project
-Hi all
 How are you doing
- 
+a=1
+b=2
+c=3 
 
 
